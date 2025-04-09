@@ -1,0 +1,13 @@
+Pillow
+imagehash
+faiss-cpu
+numpy
+datasets
+torch
+torchvision
+tqdm
+matplotlib
+lightning-cloud
+git+https://github.com/openai/CLIP.git
+openai
+open_clip
