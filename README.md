@@ -1,7 +1,8 @@
 This repository contains the research code for our paper "Quantifying Duplication in CLIP Training and Fine-Grained Classification Datasets".
 
 # Key Features
-
+1. Find duplicates of a target dataset in laion400m with faiss search, use clip to filtere faiss search result, ensure efficiency and accuracy;
+   
 2. Analyze captions of the duplicate images, categorize the duplicates into exact match, relevant captions, and irrelevant captions;
 
 3. Get zero-shot accuracy on original dataset and duplicates with Open CLIP.
